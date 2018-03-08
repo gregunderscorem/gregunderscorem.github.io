@@ -27,11 +27,9 @@ education:
   - years: 2007-2011
     name: Bachelor’s of Arts in Biology
     location: Drake University
-    description:
   - years: 2007-2011
     name: Bachelor's of Science in Neuroscience
     location: Drake University
-    description:
 	
 positions:
   - years: 2012-2016
