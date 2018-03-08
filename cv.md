@@ -9,7 +9,7 @@ experience:
   - years: 2017-
     name: Adjunct Professor
     location: High Point University
-    description: Led *Undergraduate Introduction to Anatomy*, Assisted *Masters Anatomy*, Assisted with cadaveric dissection, Lead course in feline dissection
+    description: Led Undergraduate Introduction to Anatomy, Assisted Masters Anatomy, Assisted with cadaveric dissection, Lead course in feline dissection
   - years: 2014-2016
     name: Teaching Research Assistant
     location: Iowa State University
@@ -23,7 +23,7 @@ education:
   - years: 2011-2016
     name: PhD in Neuroscience
     location: Iowa State University 
-    description: (Conditional Pass, 1/6/2017), Thesis **Defining the mechanisms of trauma after blast exposure** succesfully defended and accepted pending revisions to written component. Work focused on behavioral traumatic brain injury models in mice.
+    description: (Conditional Pass, 1/6/2017), Thesis: "Defining the mechanisms of trauma after blast exposure" was succesfully defended and accepted pending revisions to written component. Work focused on behavioral traumatic brain injury models in mice.
   - years: 2007-2011
     name: Bachelor’s of Arts in Biology
     location: Drake University
