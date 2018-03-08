@@ -23,7 +23,7 @@ education:
   - years: 2011-2016
     name: PhD in Neuroscience
     location: Iowa State University 
-    description: (Conditional Pass, 1/6/2017), Thesis: "Defining the mechanisms of trauma after blast exposure" was succesfully defended and accepted pending revisions to written component. Work focused on behavioral traumatic brain injury models in mice.
+    description: (Conditional Pass, 1/6/2017), My thesis, "Defining the mechanisms of trauma after blast exposure" was succesfully defended and accepted pending revisions to written component. Work focused on behavioral traumatic brain injury models in mice.
   - years: 2007-2011
     name: Bachelor’s of Arts in Biology
     location: Drake University
