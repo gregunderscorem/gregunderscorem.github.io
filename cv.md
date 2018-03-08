@@ -4,11 +4,7 @@ summary: "Gregory Mlynarczyk's Resume"
 cv_title: Gregory Mlynarczyk
 cv_subtitle: Neuroscientist
 location: High Point, NC
-phone:
-contact_name: 
-contact_link: 
-linkedin_name:
-linkedin_link:
+
 experience:
   - years: 2017-
     name: Adjunct Professor
