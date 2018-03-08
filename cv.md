@@ -30,7 +30,7 @@ education:
   - years: 2007-2011
     name: Bachelor's of Science in Neuroscience
     location: Drake University
-	
+
 positions:
   - years: 2012-2016
     name: Society for Neuroscience Ames Chapter
