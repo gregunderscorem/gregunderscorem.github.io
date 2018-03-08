@@ -1,60 +1,50 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
-phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+summary: "Gregory Mlynarczyk's Resume"
+cv_title: Gregory Mlynarczyk
+cv_subtitle: Neuroscientist
+location: High Point, NC
+phone:
+contact_name: 
+contact_link: 
+linkedin_name:
+linkedin_link:
 experience:
-  - years: 2015-
-    name: Research Assistant
-    location: Norwegian School of Economics
-    description: Quantitative work including data management, model estimation, and programming in Python.
-  - years: 2015-
-    name: Substitute Teacher
-    location: Pedagogisk Vikarsentral
-    description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
-  - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
-    description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
-    name: Customer Service Representative
-    location: Sixt Norway
-    description: Customer Service, logistics, preparation of rental cars.
+  - years: 2017-
+    name: Adjunct Professor
+    location: High Point University
+    description: Led *Undergraduate Introduction to Anatomy*, Assisted *Masters Anatomy*, Assisted with cadaveric dissection, Lead course in feline dissection
+  - years: 2014-2016
+    name: Teaching Research Assistant
+    location: Iowa State University
+    description: Led lecture each week in Introductory Anatomy, Guided students through multi-part data-acquisition experiments
+  - years: 2012-2016
+    name: Graduate Research Assistant
+    location: Iowa State University
+    description: Self-taught R programming to fill needed gap in the lab, Helped design and run the lab’s first optogenetics study, Engineered custom measurement system for high-speed blast recordings
+
 education:
-  - years: 2013-2015
-    name: Master’s Degree in Comparative Politics
-    location: University of Bergen
-    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
-  - years: 2010-2013
-    name: Bachelor’s Degree in Political Economy
-    location: University of Bergen
-    description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
-  - years: 2009-2010
-    name: Diploma
-    location: Manger Folkehøgskule
-    description: Music Production
-  - years: 2006-2009
-    name: Diploma
-    location: Breivika Videregående Skole
-    description: Academic specialization with media
+  - years: 2011-2016
+    name: PhD in Neuroscience
+    location: Iowa State University 
+    description: (Conditional Pass, 1/6/2017), Thesis **Defining the mechanisms of trauma after blast exposure** succesfully defended and accepted pending revisions to written component. Work focused on behavioral traumatic brain injury models in mice.
+  - years: 2007-2011
+    name: Bachelor’s of Arts in Biology
+    location: Drake University
+    description:
+  - years: 2007-2011
+    name: Bachelor's of Science in Neuroscience
+    location: Drake University
+    description:
+	
 positions:
-  - years: 2013-2015
-    name: Student Council for Comparative Politics
+  - years: 2012-2016
+    name: Society for Neuroscience Ames Chapter
     location: Board Member
-    description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
-  - years: 2012-2013
-    name: Student Council for Political Economy
-    location: Board Member
-    description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
-misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
-date: 2016-04-02
+    description: Assisted in starting up the local chapter of Society for Neuroscience, including hosting and leading several outreach events at nearby public schools and science centers.
+  
+date: 2017-03-08
 layout: cv
 ---
 
-> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
+> 2016 graduate with ABD PhD in Neuroscience from Iowa State University. Currently an Adjunct Professor at High Point University.
