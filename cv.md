@@ -13,11 +13,11 @@ experience:
   - years: 2014-2016
     name: Teaching Research Assistant
     location: Iowa State University
-    description: Led lecture each week in Introductory Anatomy, Guided students through multi-part data-acquisition experiments
+    description: Led lecture each week in Introductory Anatomy, Guided students through multi part data acquisition experiments
   - years: 2012-2016
     name: Graduate Research Assistant
     location: Iowa State University
-    description: Self-taught R programming to fill needed gap in the lab, Helped design and run the lab’s first optogenetics study, Engineered custom measurement system for high-speed blast recordings
+    description: Self taught R programming to fill needed gap in the lab, Helped design and run the lab’s first optogenetics study, Engineered custom measurement system for high speed blast recordings
 
 education:
   - years: 2011-2016
