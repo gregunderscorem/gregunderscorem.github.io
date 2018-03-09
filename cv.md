@@ -36,7 +36,9 @@ positions:
     name: Society for Neuroscience Ames Chapter
     location: Board Member
     description: Assisted in starting up the local chapter of Society for Neuroscience, including hosting and leading several outreach events at nearby public schools and science centers.
-  
+
+miscellaneous:
+  - Skilled at electronic troubleshooting, soldering and wiring, very basic programming, and R statistics. Extracurricular activites include acting, game design, and cooking.
 date: 2017-03-08
 layout: cv
 ---
