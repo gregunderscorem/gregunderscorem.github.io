@@ -5,11 +5,6 @@ menu:
    url: /about
  - page: Papers
    url: /papers
-   links:
-    - title: Working papers
-      url: "#working-papers"
-    - title: Published papers
-      url: "#published-papers"
  - page: Research Projects
    url: /research
    links:
@@ -30,11 +25,9 @@ menu:
       url: "#education"
     - title: Positions
       url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
  - page: Teaching
    url: /teaching
- - page: Media
+ - page: Presentations
    url: /media
  - page: Accolades
    url: /accolades
