@@ -1,10 +1,8 @@
 ---
-title: "Media"
-summary: "About this page."
-date: 2016-04-02
+title: "Presentations"
+summary: "A list of past presentations"
+date: 2018-03-09
 layout: default
 ---
 
-"Media" introductory paragraph.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+2014 Society for Neuroscience

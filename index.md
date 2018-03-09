@@ -7,5 +7,9 @@ layout: default
 
 Hello!
 
-Welcome to my website. If you want information about me there are links to the right, but if you really want to get to know me you should send a message to greg@gregmly.com and we can talk!
+Welcome to my website. 
 
+If you want information about me there are links to the right, but if you really want to get to know me you should send a message to <greg@gregmly.com> and we can talk!
+
+----
+This website was forked from a framework generously developed by Ole Vik, and is hosted on GitHub pages.
