@@ -15,4 +15,4 @@ Outside of work, I enjoy games and game design, as well as acting, improvisation
 
 This website was forked from a framework generously developed by Ole Vik, and is hosted on GitHub pages. If you have any interest in setting up a similar webpage of your own I'd be happy to help guide you.
 
-<img src="assets/images/greg.jpg" alt="Greg Mlynarczyk" style="width: 200px;"/>
+<img src="assets/images/greg.jpg" alt="Greg Mlynarczyk" width="200" height="200" />
