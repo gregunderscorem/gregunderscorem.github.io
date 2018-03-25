@@ -7,6 +7,8 @@ layout: default
 
 ## Published papers
 Peterson, D.C., and **Mlynarczyk, G.S.A.** (2016). Analysis of traditional versus three-dimensional augmented curriculum on anatomical learning outcome measures. Anat Sci Educ 9, 529–536.
+
+
 Stock, M.L., Fiedler, K.J., Acharya, S., Lange, J.K., **Mlynarczyk, G.S.A.**, Anderson, S.J., McCormack, G.R., Kanuri, S.H., Kondru, N.C., Brewer, M.T., and Carlson, S.A. (2013). Antibiotics acting as neuroprotectants via mechanisms independent of their anti-infective activities. Neuropharmacology 73, 174–182.
 
 
