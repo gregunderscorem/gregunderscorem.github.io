@@ -43,4 +43,4 @@ date: 2017-03-08
 layout: cv
 ---
 
-> 2016 graduate with ABD PhD in Neuroscience from Iowa State University. Currently an Adjunct Professor at High Point University.
+> 2016 graduate with ABD PhD in Neuroscience from Iowa State University. 
